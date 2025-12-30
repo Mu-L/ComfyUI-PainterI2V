@@ -123,6 +123,8 @@ This node is created by Douyin creator: 绘画小子
 
 PainterI2V node that specifically fixes the slow-motion issue in 4-step LoRAs (e.g., lightx2v).
 
+2025-12-30现在已经推出升级版PainterI2Vadvanced，建议使用。项目地址：https://github.com/princepainter/PainterI2Vadvanced
+
 The comparative effects in the above video are from my test using the official Wan2.2 model + Light2v 4-step I2V LoRA V1.0. The performance of other models awaits your own testing .
 
 If you're using KJ's wan2.2-i2v workflow, use this node specifically developed for KJ — the effect is consistent.https://github.com/princepainter/ComfyUI-PainterI2VforKJ
@@ -206,6 +208,7 @@ In your workflow, replace `WanImageToVideo` with `PainterI2V`.
 If you find this project helpful, please give it a star ⭐ to show your support!
 </div>
 # Restart ComfyUI
+
 
 
 
